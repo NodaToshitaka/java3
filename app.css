@@ -8,8 +8,19 @@ header {
   display: flex;
 }
 
+
+
 nav {
+  display: none;
+
+}
+
+nav .m-nav{
   display: inline-block;
+}
+
+nav .active {
+ display: block;
 }
 
 .togle {
