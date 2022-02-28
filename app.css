@@ -24,5 +24,14 @@ nav .active {
 }
 
 .togle {
-  display: none;
+  size: 50px;
+  background-color: black;
+}
+
+.rollback {
+  background-color: black;
+  color: beige;
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
 }
