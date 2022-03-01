@@ -35,3 +35,11 @@ nav .active {
   right: 20px;
   bottom: 20px;
 }
+
+.body_main {
+  margin: 10px 0;
+}
+
+.b-main-text {
+  margin: 20px auto;
+}
