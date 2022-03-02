@@ -36,6 +36,10 @@ nav .active {
   bottom: 20px;
 }
 
+body {
+  display: flex;
+}
+
 .body_main {
   margin: 10px 0;
 }
