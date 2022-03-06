@@ -40,6 +40,10 @@ body {
   display: flex;
 }
 
+.m-img {
+  height: 150px;
+}
+
 .body_main {
   margin: 10px 0;
 }
