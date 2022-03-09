@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background-color: antiquewhite;
 }
 
 header {
@@ -37,6 +38,7 @@ nav .active {
   bottom: 20px;
 }
 .rollback a {
+  margin: auto;
   color: beige;
 }
 
