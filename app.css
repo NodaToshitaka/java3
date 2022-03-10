@@ -12,21 +12,19 @@ header {
 
 
 nav {
-  display: none;
-
+  height: 300px;
+  display:inline-block;
+  background-color: burlywood;
 }
 
-nav .m-nav{
-  display: inline-block;
-}
+
 
 nav .active {
  display: block;
 }
 
 .togle {
-  size: 50px;
-  background-color: black;
+  display: none;
 }
 
 .rollback {
